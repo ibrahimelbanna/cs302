@@ -1,1 +1,1 @@
-# cs302
+cs302 Introduction to Linux  
