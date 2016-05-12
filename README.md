@@ -1,3 +1,4 @@
+
 #cs302 Introduction to Linux 
 course objective :
 Get comfortable working with the command line .
